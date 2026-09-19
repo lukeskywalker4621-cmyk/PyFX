@@ -1,0 +1,3 @@
+opencv-python
+av
+PySide6
